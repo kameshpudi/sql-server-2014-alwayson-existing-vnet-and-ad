@@ -18,7 +18,7 @@
             "value": "Password@2017"
         },
         "existingVirtualNetworkId": {
-            "value": "/subscriptions/258eb299-f2a9-438b-bb4c-12a72814a4d1/resourceGroups/lbgsql2014alwaysonrg/providers/Microsoft.Network/virtualNetworks/adVNET"
+            "value": "/subscriptions/258eb299-f2a9-438b-bb4c-12a72814a4d1/resourceGroups/lbgsql2014alwayson/providers/Microsoft.Network/virtualNetworks/adVNET"
         },
         "existingAdPDCVMName": {
             "value": "adPDC"
