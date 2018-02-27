@@ -15,7 +15,7 @@
             "value": "lbguser"
         },
          "sqlServerServiceAccountPassword": {
-            "value": "lbguser"
+            "value": "Password@2017"
         },
         "existingVirtualNetworkId": {
             "value": "/subscriptions/258eb299-f2a9-438b-bb4c-12a72814a4d1/resourceGroups/lbgsql2016alwayson/providers/Microsoft.Network/virtualNetworks/adVNET"
