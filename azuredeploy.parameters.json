@@ -8,7 +8,13 @@
         "adminUsername": {
             "value": "lbgadmin"
         },
+        "adminPassword": {
+            "value": "Password@2017"
+        },
         "sqlServerServiceAccountUserName": {
+            "value": "lbguser"
+        },
+         "sqlServerServiceAccountPassword": {
             "value": "lbguser"
         },
         "existingVirtualNetworkId": {
